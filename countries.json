@@ -1,0 +1,3920 @@
+{
+    "countries": [
+        {
+            "name": "Aachen",
+            "hexColor": "#9D33A7"
+        },
+        {
+            "name": "Abenaki",
+            "hexColor": "#31735A"
+        },
+        {
+            "name": "Abihka",
+            "hexColor": "#128BE4"
+        },
+        {
+            "name": "Acoma",
+            "hexColor": "#729175"
+        },
+        {
+            "name": "Adal",
+            "hexColor": "#914682"
+        },
+        {
+            "name": "Aden",
+            "hexColor": "#E99B51"
+        },
+        {
+            "name": "Afar",
+            "hexColor": "#7D64DC"
+        },
+        {
+            "name": "Afghanistan",
+            "hexColor": "#668034"
+        },
+        {
+            "name": "Ahmadnagar",
+            "hexColor": "#4A578A"
+        },
+        {
+            "name": "Ainu",
+            "hexColor": "#C9C57C"
+        },
+        {
+            "name": "Air",
+            "hexColor": "#1E1FA2"
+        },
+        {
+            "name": "Ajuuraan",
+            "hexColor": "#35BC00"
+        },
+        {
+            "name": "Akamatsu",
+            "hexColor": "#89C3EB"
+        },
+        {
+            "name": "Ak Koyunlu",
+            "hexColor": "#1F318A"
+        },
+        {
+            "name": "Aksumite Empire",
+            "hexColor": "#6E78BF"
+        },
+        {
+            "name": "Alaska",
+            "hexColor": "#B9D7FF"
+        },
+        {
+            "name": "Albania",
+            "hexColor": "#B50014"
+        },
+        {
+            "name": "Alencon",
+            "hexColor": "#A274E1"
+        },
+        {
+            "name": "Algiers",
+            "hexColor": "#E6E16E"
+        },
+        {
+            "name": "Algonquin",
+            "hexColor": "#04A24D"
+        },
+        {
+            "name": "Alodia",
+            "hexColor": "#8790B4"
+        },
+        {
+            "name": "Alsace",
+            "hexColor": "#F6DF0F"
+        },
+        {
+            "name": "Altamaha",
+            "hexColor": "#C51C94"
+        },
+        {
+            "name": "Amago",
+            "hexColor": "#CD5E3C"
+        },
+        {
+            "name": "Andalusia",
+            "hexColor": "#F0E69B"
+        },
+        {
+            "name": "Andhra",
+            "hexColor": "#2F847C"
+        },
+        {
+            "name": "Ando",
+            "hexColor": "#C85554"
+        },
+        {
+            "name": "Angevin Empire",
+            "hexColor": "#6E008C"
+        },
+        {
+            "name": "Anhalt",
+            "hexColor": "#CB5D7C"
+        },
+        {
+            "name": "Anilco",
+            "hexColor": "#531E9D"
+        },
+        {
+            "name": "Anizah",
+            "hexColor": "#8FDEA9"
+        },
+        {
+            "name": "Annam",
+            "hexColor": "#BA0E5C"
+        },
+        {
+            "name": "Ansbach",
+            "hexColor": "#824D77"
+        },
+        {
+            "name": "Antemoro",
+            "hexColor": "#33B733"
+        },
+        {
+            "name": "Aotearoa",
+            "hexColor": "#781000"
+        },
+        {
+            "name": "Apache",
+            "hexColor": "#C69E6D"
+        },
+        {
+            "name": "Aquileia",
+            "hexColor": "#221EAE"
+        },
+        {
+            "name": "Arabia",
+            "hexColor": "#4C8D3A"
+        },
+        {
+            "name": "Aragon",
+            "hexColor": "#A64448"
+        },
+        {
+            "name": "Arakan",
+            "hexColor": "#D4D397"
+        },
+        {
+            "name": "Arapaho",
+            "hexColor": "#790A41"
+        },
+        {
+            "name": "Arawak",
+            "hexColor": "#6678E1"
+        },
+        {
+            "name": "Ardabil",
+            "hexColor": "#446E23"
+        },
+        {
+            "name": "Ardalan",
+            "hexColor": "#A21DDC"
+        },
+        {
+            "name": "Arendaronon",
+            "hexColor": "#4E8B3C"
+        },
+        {
+            "name": "Armagnac",
+            "hexColor": "#BBCEF7"
+        },
+        {
+            "name": "Armenia",
+            "hexColor": "#911E4B"
+        },
+        {
+            "name": "Asakura",
+            "hexColor": "#38B48B"
+        },
+        {
+            "name": "Ashanti",
+            "hexColor": "#6162C3"
+        },
+        {
+            "name": "Ashikaga",
+            "hexColor": "#A22041"
+        },
+        {
+            "name": "Assam",
+            "hexColor": "#A3054D"
+        },
+        {
+            "name": "Assiniboine",
+            "hexColor": "#197B30"
+        },
+        {
+            "name": "Astrakhan",
+            "hexColor": "#1A1B9A"
+        },
+        {
+            "name": "Asturias",
+            "hexColor": "#68ADE6"
+        },
+        {
+            "name": "Atahachi",
+            "hexColor": "#5B70CF"
+        },
+        {
+            "name": "Athens",
+            "hexColor": "#717060"
+        },
+        {
+            "name": "Atjeh",
+            "hexColor": "#5889AC"
+        },
+        {
+            "name": "Attignawantan",
+            "hexColor": "#3DF8C4"
+        },
+        {
+            "name": "Attigneenongnahac",
+            "hexColor": "#D8B82B"
+        },
+        {
+            "name": "Attiwandaron",
+            "hexColor": "#6EA767"
+        },
+        {
+            "name": "Augsburg",
+            "hexColor": "#14BC76"
+        },
+        {
+            "name": "Australia",
+            "hexColor": "#903C4B"
+        },
+        {
+            "name": "Austria",
+            "hexColor": "#DCDCDC"
+        },
+        {
+            "name": "Austriahungary",
+            "hexColor": "#EFEFEF"
+        },
+        {
+            "name": "Auvergne",
+            "hexColor": "#DA9B4B"
+        },
+        {
+            "name": "Ava",
+            "hexColor": "#628A63"
+        },
+        {
+            "name": "Avars",
+            "hexColor": "#2A91D2"
+        },
+        {
+            "name": "Avignon",
+            "hexColor": "#CDB26B"
+        },
+        {
+            "name": "Awngthim",
+            "hexColor": "#894545"
+        },
+        {
+            "name": "Aydin",
+            "hexColor": "#FF9728"
+        },
+        {
+            "name": "Ayutthaya",
+            "hexColor": "#3C9846"
+        },
+        {
+            "name": "Ayyubids",
+            "hexColor": "#EAB31E"
+        },
+        {
+            "name": "Aztec",
+            "hexColor": "#309515"
+        },
+        {
+            "name": "Baden",
+            "hexColor": "#75A143"
+        },
+        {
+            "name": "Bagelkhand",
+            "hexColor": "#7B0E94"
+        },
+        {
+            "name": "Baglana",
+            "hexColor": "#83344C"
+        },
+        {
+            "name": "Bahmanis",
+            "hexColor": "#31AFBF"
+        },
+        {
+            "name": "Bali",
+            "hexColor": "#C9614A"
+        },
+        {
+            "name": "Baluchistan",
+            "hexColor": "#AF5210"
+        },
+        {
+            "name": "Bamberg",
+            "hexColor": "#C8DBC3"
+        },
+        {
+            "name": "Banjar",
+            "hexColor": "#ABAF28"
+        },
+        {
+            "name": "Banten",
+            "hexColor": "#82194A"
+        },
+        {
+            "name": "Bar",
+            "hexColor": "#B2A38F"
+        },
+        {
+            "name": "Baroda",
+            "hexColor": "#F58B7F"
+        },
+        {
+            "name": "Barus",
+            "hexColor": "#C92135"
+        },
+        {
+            "name": "Bashkiria",
+            "hexColor": "#83CA0C"
+        },
+        {
+            "name": "Basoga",
+            "hexColor": "#D5B96E"
+        },
+        {
+            "name": "Basra",
+            "hexColor": "#677988"
+        },
+        {
+            "name": "Bastar",
+            "hexColor": "#1532D4"
+        },
+        {
+            "name": "Bavaria",
+            "hexColor": "#1174C1"
+        },
+        {
+            "name": "Bayreuth",
+            "hexColor": "#D2D226"
+        },
+        {
+            "name": "Beja",
+            "hexColor": "#E4F368"
+        },
+        {
+            "name": "Beloozero",
+            "hexColor": "#422051"
+        },
+        {
+            "name": "Bengal",
+            "hexColor": "#246DC2"
+        },
+        {
+            "name": "Benin",
+            "hexColor": "#6EAD81"
+        },
+        {
+            "name": "Berar",
+            "hexColor": "#1ACF51"
+        },
+        {
+            "name": "Berau",
+            "hexColor": "#7A747C"
+        },
+        {
+            "name": "Berg",
+            "hexColor": "#F0CD8C"
+        },
+        {
+            "name": "Berry",
+            "hexColor": "#5541D7"
+        },
+        {
+            "name": "Betsimisaraka",
+            "hexColor": "#DC3A3A"
+        },
+        {
+            "name": "Bharat",
+            "hexColor": "#50A50A"
+        },
+        {
+            "name": "Bhutan",
+            "hexColor": "#5DB44C"
+        },
+        {
+            "name": "Biapas",
+            "hexColor": "#E59922"
+        },
+        {
+            "name": "Biapis",
+            "hexColor": "#D7D00E"
+        },
+        {
+            "name": "Bijapur",
+            "hexColor": "#287942"
+        },
+        {
+            "name": "Bishnupur",
+            "hexColor": "#51B189"
+        },
+        {
+            "name": "Bitlis",
+            "hexColor": "#CD6E2F"
+        },
+        {
+            "name": "Blackfoot",
+            "hexColor": "#6699FF"
+        },
+        {
+            "name": "Blambangan",
+            "hexColor": "#A83E1F"
+        },
+        {
+            "name": "Bohemia",
+            "hexColor": "#A18B28"
+        },
+        {
+            "name": "Bohtan",
+            "hexColor": "#3E8178"
+        },
+        {
+            "name": "Bologna",
+            "hexColor": "#EC5F00"
+        },
+        {
+            "name": "Bone",
+            "hexColor": "#905646"
+        },
+        {
+            "name": "Bonoman",
+            "hexColor": "#A32819"
+        },
+        {
+            "name": "Bosnia",
+            "hexColor": "#F0A782"
+        },
+        {
+            "name": "Bourbonnais",
+            "hexColor": "#008CA5"
+        },
+        {
+            "name": "Brabant",
+            "hexColor": "#76C199"
+        },
+        {
+            "name": "Brandenburg",
+            "hexColor": "#7B5A5A"
+        },
+        {
+            "name": "Brazil",
+            "hexColor": "#81B17D"
+        },
+        {
+            "name": "Bremen",
+            "hexColor": "#216589"
+        },
+        {
+            "name": "Brittany",
+            "hexColor": "#766397"
+        },
+        {
+            "name": "Brunei",
+            "hexColor": "#2959AE"
+        },
+        {
+            "name": "Brunswick",
+            "hexColor": "#745C27"
+        },
+        {
+            "name": "Buganda",
+            "hexColor": "#1515E3"
+        },
+        {
+            "name": "Buha",
+            "hexColor": "#165C16"
+        },
+        {
+            "name": "Bukhara",
+            "hexColor": "#FF8600"
+        },
+        {
+            "name": "Bulgaria",
+            "hexColor": "#746B8C"
+        },
+        {
+            "name": "Bundelkhand",
+            "hexColor": "#17728F"
+        },
+        {
+            "name": "Bunyoro",
+            "hexColor": "#AE1842"
+        },
+        {
+            "name": "Burgi",
+            "hexColor": "#BCA65D"
+        },
+        {
+            "name": "Burgundy",
+            "hexColor": "#941E46"
+        },
+        {
+            "name": "Burundi",
+            "hexColor": "#15BF10"
+        },
+        {
+            "name": "Buryats",
+            "hexColor": "#4682B4"
+        },
+        {
+            "name": "Buton",
+            "hexColor": "#D1CB1F"
+        },
+        {
+            "name": "Butua",
+            "hexColor": "#B52D2D"
+        },
+        {
+            "name": "Butuan",
+            "hexColor": "#81DEEB"
+        },
+        {
+            "name": "Byzantine Empire",
+            "hexColor": "#952D66"
+        },
+        {
+            "name": "Caddo",
+            "hexColor": "#7D201D"
+        },
+        {
+            "name": "Cahokia",
+            "hexColor": "#3B0F31"
+        },
+        {
+            "name": "Cajamarca",
+            "hexColor": "#A27B40"
+        },
+        {
+            "name": "Calchaqui",
+            "hexColor": "#4A2C7E"
+        },
+        {
+            "name": "Calenberg",
+            "hexColor": "#EFA235"
+        },
+        {
+            "name": "California",
+            "hexColor": "#F59336"
+        },
+        {
+            "name": "Can Pech",
+            "hexColor": "#868815"
+        },
+        {
+            "name": "Canada",
+            "hexColor": "#5E7537"
+        },
+        {
+            "name": "Candar",
+            "hexColor": "#724667"
+        },
+        {
+            "name": "Carib",
+            "hexColor": "#347819"
+        },
+        {
+            "name": "Carnatic",
+            "hexColor": "#E84F8E"
+        },
+        {
+            "name": "Cascadia",
+            "hexColor": "#085A05"
+        },
+        {
+            "name": "Casqui",
+            "hexColor": "#461FB3"
+        },
+        {
+            "name": "Castille",
+            "hexColor": "#C1AB08"
+        },
+        {
+            "name": "Catalunya",
+            "hexColor": "#D5844C"
+        },
+        {
+            "name": "Cayuga",
+            "hexColor": "#2C3FB6"
+        },
+        {
+            "name": "Cebu",
+            "hexColor": "#2DD72D"
+        },
+        {
+            "name": "Ceylon",
+            "hexColor": "#3C7B41"
+        },
+        {
+            "name": "Chachapoya",
+            "hexColor": "#9DC7E0"
+        },
+        {
+            "name": "Chactemal",
+            "hexColor": "#C2565B"
+        },
+        {
+            "name": "Chagatai Khanate",
+            "hexColor": "#575C68"
+        },
+        {
+            "name": "Chahar",
+            "hexColor": "#8CA380"
+        },
+        {
+            "name": "Chalahgawtha",
+            "hexColor": "#C31298"
+        },
+        {
+            "name": "Champa",
+            "hexColor": "#359797"
+        },
+        {
+            "name": "Champagne",
+            "hexColor": "#A67D9A"
+        },
+        {
+            "name": "Champassak",
+            "hexColor": "#8B83A2"
+        },
+        {
+            "name": "Chanda",
+            "hexColor": "#A5A71D"
+        },
+        {
+            "name": "Changsheng",
+            "hexColor": "#33D733"
+        },
+        {
+            "name": "Charca",
+            "hexColor": "#C683F4"
+        },
+        {
+            "name": "Charrua",
+            "hexColor": "#AE9791"
+        },
+        {
+            "name": "Chavchuveny",
+            "hexColor": "#8392C2"
+        },
+        {
+            "name": "Chernigov",
+            "hexColor": "#BEBEBE"
+        },
+        {
+            "name": "Cherokee",
+            "hexColor": "#699128"
+        },
+        {
+            "name": "Cheyenne",
+            "hexColor": "#96320A"
+        },
+        {
+            "name": "Chiaha",
+            "hexColor": "#9468C5"
+        },
+        {
+            "name": "Chiba",
+            "hexColor": "#203744"
+        },
+        {
+            "name": "Chichimeca",
+            "hexColor": "#F8E515"
+        },
+        {
+            "name": "Chickasaw",
+            "hexColor": "#A05010"
+        },
+        {
+            "name": "Chile",
+            "hexColor": "#EC9F59"
+        },
+        {
+            "name": "Chimu",
+            "hexColor": "#277B7E"
+        },
+        {
+            "name": "Chinook",
+            "hexColor": "#790A0F"
+        },
+        {
+            "name": "Chisca",
+            "hexColor": "#6F4F04"
+        },
+        {
+            "name": "Choctaw",
+            "hexColor": "#002E3B"
+        },
+        {
+            "name": "Chokwe",
+            "hexColor": "#63A027"
+        },
+        {
+            "name": "Chorti",
+            "hexColor": "#5E600B"
+        },
+        {
+            "name": "Chosokabe",
+            "hexColor": "#734B3E"
+        },
+        {
+            "name": "Chu",
+            "hexColor": "#FBA8C4"
+        },
+        {
+            "name": "Chukchi",
+            "hexColor": "#625EA3"
+        },
+        {
+            "name": "Cilli",
+            "hexColor": "#9FAE60"
+        },
+        {
+            "name": "Circassia",
+            "hexColor": "#2A6B11"
+        },
+        {
+            "name": "Cirebon",
+            "hexColor": "#E95346"
+        },
+        {
+            "name": "Coburg",
+            "hexColor": "#47C965"
+        },
+        {
+            "name": "Cocomes",
+            "hexColor": "#C2EC5B"
+        },
+        {
+            "name": "Cofitachequi",
+            "hexColor": "#BC666E"
+        },
+        {
+            "name": "Coixtlahuaca",
+            "hexColor": "#3A12DC"
+        },
+        {
+            "name": "Colima",
+            "hexColor": "#C69515"
+        },
+        {
+            "name": "Colla",
+            "hexColor": "#BCEA9E"
+        },
+        {
+            "name": "Cologne",
+            "hexColor": "#547C30"
+        },
+        {
+            "name": "Colombia",
+            "hexColor": "#598CB0"
+        },
+        {
+            "name": "Comanche",
+            "hexColor": "#603913"
+        },
+        {
+            "name": "Connacht",
+            "hexColor": "#C1ED55"
+        },
+        {
+            "name": "Coosa",
+            "hexColor": "#2AF658"
+        },
+        {
+            "name": "Corfu",
+            "hexColor": "#D3ACB9"
+        },
+        {
+            "name": "Cornwall",
+            "hexColor": "#9B3800"
+        },
+        {
+            "name": "Corsica",
+            "hexColor": "#6AB22E"
+        },
+        {
+            "name": "Coweta",
+            "hexColor": "#1227B8"
+        },
+        {
+            "name": "Cree",
+            "hexColor": "#1CBBB4"
+        },
+        {
+            "name": "Creek",
+            "hexColor": "#6C8BD0"
+        },
+        {
+            "name": "Crete",
+            "hexColor": "#8A6E82"
+        },
+        {
+            "name": "Crimea",
+            "hexColor": "#3B9E7D"
+        },
+        {
+            "name": "Croatia",
+            "hexColor": "#685EF7"
+        },
+        {
+            "name": "Cuba",
+            "hexColor": "#8C41A6"
+        },
+        {
+            "name": "Cusco",
+            "hexColor": "#E54040"
+        },
+        {
+            "name": "Cyprus",
+            "hexColor": "#F5C81E"
+        },
+        {
+            "name": "Dagbon",
+            "hexColor": "#ABA01F"
+        },
+        {
+            "name": "Dahomey",
+            "hexColor": "#0B54B3"
+        },
+        {
+            "name": "Dai Viet",
+            "hexColor": "#88755A"
+        },
+        {
+            "name": "Dakota",
+            "hexColor": "#5B7676"
+        },
+        {
+            "name": "Dali",
+            "hexColor": "#F5F5DC"
+        },
+        {
+            "name": "Dalmatia",
+            "hexColor": "#2E80BC"
+        },
+        {
+            "name": "Damot",
+            "hexColor": "#F36A00"
+        },
+        {
+            "name": "Dang",
+            "hexColor": "#D5C242"
+        },
+        {
+            "name": "Danzig",
+            "hexColor": "#4E8197"
+        },
+        {
+            "name": "Darfur",
+            "hexColor": "#2CA046"
+        },
+        {
+            "name": "Date",
+            "hexColor": "#69B076"
+        },
+        {
+            "name": "Dauphine",
+            "hexColor": "#5DC27A"
+        },
+        {
+            "name": "Dawasir",
+            "hexColor": "#215C8F"
+        },
+        {
+            "name": "Deccan",
+            "hexColor": "#598D8C"
+        },
+        {
+            "name": "Delhi",
+            "hexColor": "#9DC82A"
+        },
+        {
+            "name": "Deli",
+            "hexColor": "#445E55"
+        },
+        {
+            "name": "Demak",
+            "hexColor": "#D3D34E"
+        },
+        {
+            "name": "Denmark",
+            "hexColor": "#BE4646"
+        },
+        {
+            "name": "Desmond",
+            "hexColor": "#B35959"
+        },
+        {
+            "name": "Dhundhar",
+            "hexColor": "#626E60"
+        },
+        {
+            "name": "Dithmarschen",
+            "hexColor": "#48C2D4"
+        },
+        {
+            "name": "Donauwoerth",
+            "hexColor": "#50C940"
+        },
+        {
+            "name": "Dongola",
+            "hexColor": "#32A232"
+        },
+        {
+            "name": "Doti",
+            "hexColor": "#E7984F"
+        },
+        {
+            "name": "Dulkadir",
+            "hexColor": "#E9FFDA"
+        },
+        {
+            "name": "East Frisia",
+            "hexColor": "#BE2010"
+        },
+        {
+            "name": "East India Company",
+            "hexColor": "#D4574E"
+        },
+        {
+            "name": "East Jianzhou",
+            "hexColor": "#F4944D"
+        },
+        {
+            "name": "Egypt",
+            "hexColor": "#FFDC68"
+        },
+        {
+            "name": "Eneara",
+            "hexColor": "#D5BE26"
+        },
+        {
+            "name": "England",
+            "hexColor": "#C11A0E"
+        },
+        {
+            "name": "Eora",
+            "hexColor": "#F39B4B"
+        },
+        {
+            "name": "Epirus",
+            "hexColor": "#E6E4D6"
+        },
+        {
+            "name": "Eranshahr",
+            "hexColor": "#652E89"
+        },
+        {
+            "name": "Eretna",
+            "hexColor": "#FAC846"
+        },
+        {
+            "name": "Erie",
+            "hexColor": "#2CDC17"
+        },
+        {
+            "name": "Estonia",
+            "hexColor": "#F87D7D"
+        },
+        {
+            "name": "Ethiopia",
+            "hexColor": "#3878BF"
+        },
+        {
+            "name": "Etowah",
+            "hexColor": "#5033D7"
+        },
+        {
+            "name": "Etruria",
+            "hexColor": "#729A8F"
+        },
+        {
+            "name": "Fadl",
+            "hexColor": "#609428"
+        },
+        {
+            "name": "Faly",
+            "hexColor": "#ED8A16"
+        },
+        {
+            "name": "Fars",
+            "hexColor": "#E8CE01"
+        },
+        {
+            "name": "Ferrara",
+            "hexColor": "#158015"
+        },
+        {
+            "name": "Fez",
+            "hexColor": "#E09271"
+        },
+        {
+            "name": "Fezzan",
+            "hexColor": "#71B097"
+        },
+        {
+            "name": "Finland",
+            "hexColor": "#B68664"
+        },
+        {
+            "name": "Flanders",
+            "hexColor": "#2B8DAC"
+        },
+        {
+            "name": "Florence",
+            "hexColor": "#EC2F2F"
+        },
+        {
+            "name": "Florida",
+            "hexColor": "#F0E31B"
+        },
+        {
+            "name": "Foix",
+            "hexColor": "#696AB6"
+        },
+        {
+            "name": "Formosa",
+            "hexColor": "#DAEA0F"
+        },
+        {
+            "name": "Fox",
+            "hexColor": "#F26522"
+        },
+        {
+            "name": "France",
+            "hexColor": "#1432D2"
+        },
+        {
+            "name": "Franconia",
+            "hexColor": "#598044"
+        },
+        {
+            "name": "Frankfurt",
+            "hexColor": "#F3C921"
+        },
+        {
+            "name": "Friesland",
+            "hexColor": "#A5591B"
+        },
+        {
+            "name": "Fulo",
+            "hexColor": "#F58719"
+        },
+        {
+            "name": "Funj",
+            "hexColor": "#545098"
+        },
+        {
+            "name": "Galicia",
+            "hexColor": "#F0A782"
+        },
+        {
+            "name": "Gamilaraay",
+            "hexColor": "#3B946F"
+        },
+        {
+            "name": "Garhwal",
+            "hexColor": "#3C9A87"
+        },
+        {
+            "name": "Garjat",
+            "hexColor": "#6E8842"
+        },
+        {
+            "name": "Gascony",
+            "hexColor": "#2090CC"
+        },
+        {
+            "name": "Gazikumukh",
+            "hexColor": "#A25D1F"
+        },
+        {
+            "name": "Geledi",
+            "hexColor": "#26A043"
+        },
+        {
+            "name": "Gelre",
+            "hexColor": "#8B4261"
+        },
+        {
+            "name": "Geneva",
+            "hexColor": "#FFFA8A"
+        },
+        {
+            "name": "Genoa",
+            "hexColor": "#DAD738"
+        },
+        {
+            "name": "Georgia",
+            "hexColor": "#BE2325"
+        },
+        {
+            "name": "Germany",
+            "hexColor": "#4B8287"
+        },
+        {
+            "name": "Germiyan",
+            "hexColor": "#C80815"
+        },
+        {
+            "name": "Ghadames",
+            "hexColor": "#FF850F"
+        },
+        {
+            "name": "Gilan",
+            "hexColor": "#D7D00E"
+        },
+        {
+            "name": "Gingee",
+            "hexColor": "#3E278E"
+        },
+        {
+            "name": "Glogau",
+            "hexColor": "#05AB93"
+        },
+        {
+            "name": "Golconda",
+            "hexColor": "#B7B05E"
+        },
+        {
+            "name": "Golden Horde",
+            "hexColor": "#FAB603"
+        },
+        {
+            "name": "Gondwana",
+            "hexColor": "#E09271"
+        },
+        {
+            "name": "Gorkha",
+            "hexColor": "#89B77C"
+        },
+        {
+            "name": "Goslar",
+            "hexColor": "#582D94"
+        },
+        {
+            "name": "Gotland",
+            "hexColor": "#997E00"
+        },
+        {
+            "name": "Granada",
+            "hexColor": "#D2DCAF"
+        },
+        {
+            "name": "Great Zimbabwe",
+            "hexColor": "#FFD300"
+        },
+        {
+            "name": "Great Britain",
+            "hexColor": "#990000"
+        },
+        {
+            "name": "Great Horde",
+            "hexColor": "#C1B37F"
+        },
+        {
+            "name": "Greatmoravia",
+            "hexColor": "#D71120"
+        },
+        {
+            "name": "Great Yuan",
+            "hexColor": "#BC1212"
+        },
+        {
+            "name": "Greece",
+            "hexColor": "#090967"
+        },
+        {
+            "name": "Guamar",
+            "hexColor": "#E43179"
+        },
+        {
+            "name": "Guarani",
+            "hexColor": "#C15A42"
+        },
+        {
+            "name": "Guge",
+            "hexColor": "#32257D"
+        },
+        {
+            "name": "Gujarat",
+            "hexColor": "#E7E06B"
+        },
+        {
+            "name": "Gurma",
+            "hexColor": "#4785B2"
+        },
+        {
+            "name": "Gwalior",
+            "hexColor": "#99ED91"
+        },
+        {
+            "name": "Haasa",
+            "hexColor": "#B26705"
+        },
+        {
+            "name": "Hadiya",
+            "hexColor": "#B5D719"
+        },
+        {
+            "name": "Hadoti",
+            "hexColor": "#771915"
+        },
+        {
+            "name": "Hadramut",
+            "hexColor": "#108E31"
+        },
+        {
+            "name": "Haida",
+            "hexColor": "#14BF14"
+        },
+        {
+            "name": "Hainaut",
+            "hexColor": "#673EB9"
+        },
+        {
+            "name": "Haiti",
+            "hexColor": "#8BB3CF"
+        },
+        {
+            "name": "Haixi",
+            "hexColor": "#98A7ED"
+        },
+        {
+            "name": "Hamburg",
+            "hexColor": "#E35F07"
+        },
+        {
+            "name": "Hannover",
+            "hexColor": "#A4D97F"
+        },
+        {
+            "name": "Hansa",
+            "hexColor": "#9CB3BD"
+        },
+        {
+            "name": "Harar",
+            "hexColor": "#AF4B0F"
+        },
+        {
+            "name": "Hasinai",
+            "hexColor": "#ABC01F"
+        },
+        {
+            "name": "Hatakeyama",
+            "hexColor": "#69821B"
+        },
+        {
+            "name": "Hathawekela",
+            "hexColor": "#A4DC86"
+        },
+        {
+            "name": "Hausa",
+            "hexColor": "#30A960"
+        },
+        {
+            "name": "Hawaii",
+            "hexColor": "#FF8750"
+        },
+        {
+            "name": "Hawaii United",
+            "hexColor": "#B4D791"
+        },
+        {
+            "name": "Hedjaz",
+            "hexColor": "#FFD7B9"
+        },
+        {
+            "name": "Herzegovina",
+            "hexColor": "#4871A0"
+        },
+        {
+            "name": "Hessen",
+            "hexColor": "#72ABB8"
+        },
+        {
+            "name": "Highlands",
+            "hexColor": "#2571CF"
+        },
+        {
+            "name": "Hindustan",
+            "hexColor": "#EBFFDC"
+        },
+        {
+            "name": "Hobyo",
+            "hexColor": "#FF4907"
+        },
+        {
+            "name": "Hodyntsy",
+            "hexColor": "#A3B68F"
+        },
+        {
+            "name": "Hojo",
+            "hexColor": "#274A78"
+        },
+        {
+            "name": "Holland",
+            "hexColor": "#9C6064"
+        },
+        {
+            "name": "Holstein",
+            "hexColor": "#DC969E"
+        },
+        {
+            "name": "Holy Roman Empire",
+            "hexColor": "#96B1A1"
+        },
+        {
+            "name": "Hosokawa",
+            "hexColor": "#316745"
+        },
+        {
+            "name": "Hsenwi",
+            "hexColor": "#DC3D68"
+        },
+        {
+            "name": "Hsipaw",
+            "hexColor": "#BA93FB"
+        },
+        {
+            "name": "Huai",
+            "hexColor": "#84CFBF"
+        },
+        {
+            "name": "Huastec",
+            "hexColor": "#40EC5B"
+        },
+        {
+            "name": "Hungary",
+            "hexColor": "#98555C"
+        },
+        {
+            "name": "Huron",
+            "hexColor": "#B28B3C"
+        },
+        {
+            "name": "Huyla",
+            "hexColor": "#297B49"
+        },
+        {
+            "name": "Iceland",
+            "hexColor": "#2B3C75"
+        },
+        {
+            "name": "Ichisi",
+            "hexColor": "#E934F3"
+        },
+        {
+            "name": "Ichma",
+            "hexColor": "#A50A23"
+        },
+        {
+            "name": "Idar",
+            "hexColor": "#1F66BB"
+        },
+        {
+            "name": "Ikeda",
+            "hexColor": "#B28C6E"
+        },
+        {
+            "name": "Ilkhanate",
+            "hexColor": "#E83002"
+        },
+        {
+            "name": "Illinewek",
+            "hexColor": "#81D6EE"
+        },
+        {
+            "name": "Illinois",
+            "hexColor": "#62B4D0"
+        },
+        {
+            "name": "Imagawa",
+            "hexColor": "#DCCB18"
+        },
+        {
+            "name": "Imereti",
+            "hexColor": "#2484F7"
+        },
+        {
+            "name": "Inca",
+            "hexColor": "#7D5C6E"
+        },
+        {
+            "name": "Indrapura",
+            "hexColor": "#D2BEFC"
+        },
+        {
+            "name": "Ingolstadt",
+            "hexColor": "#43A3D7"
+        },
+        {
+            "name": "Innu",
+            "hexColor": "#084006"
+        },
+        {
+            "name": "Iraq",
+            "hexColor": "#998AA1"
+        },
+        {
+            "name": "Ireland",
+            "hexColor": "#709669"
+        },
+        {
+            "name": "IRE_Munster",
+            "hexColor": "#68898C"
+        },
+        {
+            "name": "Iroquois",
+            "hexColor": "#57B650"
+        },
+        {
+            "name": "Isfahan",
+            "hexColor": "#151341"
+        },
+        {
+            "name": "Isleta",
+            "hexColor": "#F4E8BC"
+        },
+        {
+            "name": "Israel",
+            "hexColor": "#148AFF"
+        },
+        {
+            "name": "Isshiki",
+            "hexColor": "#2F9BE0"
+        },
+        {
+            "name": "Italy",
+            "hexColor": "#7DAB54"
+        },
+        {
+            "name": "Ito",
+            "hexColor": "#474A4D"
+        },
+        {
+            "name": "Itza",
+            "hexColor": "#5EECBF"
+        },
+        {
+            "name": "Jaffna",
+            "hexColor": "#ED8B00"
+        },
+        {
+            "name": "Jaisalmer",
+            "hexColor": "#77977A"
+        },
+        {
+            "name": "Jambi",
+            "hexColor": "#DFE4C0"
+        },
+        {
+            "name": "Jan Mayen",
+            "hexColor": "#4137BC"
+        },
+        {
+            "name": "Jangladesh",
+            "hexColor": "#3B331D"
+        },
+        {
+            "name": "Janjero",
+            "hexColor": "#9585CF"
+        },
+        {
+            "name": "Janjira",
+            "hexColor": "#7C3EB7"
+        },
+        {
+            "name": "Japan",
+            "hexColor": "#C2353C"
+        },
+        {
+            "name": "Jarai",
+            "hexColor": "#C7F4BC"
+        },
+        {
+            "name": "Jaunpur",
+            "hexColor": "#645E7D"
+        },
+        {
+            "name": "Jenne",
+            "hexColor": "#379EC6"
+        },
+        {
+            "name": "Jerusalem",
+            "hexColor": "#D3E6D3"
+        },
+        {
+            "name": "Jeypore",
+            "hexColor": "#EDAEDD"
+        },
+        {
+            "name": "Jhalavad",
+            "hexColor": "#D09D21"
+        },
+        {
+            "name": "Jharkhand",
+            "hexColor": "#81A157"
+        },
+        {
+            "name": "Jianzhou",
+            "hexColor": "#412039"
+        },
+        {
+            "name": "Jima",
+            "hexColor": "#EF4343"
+        },
+        {
+            "name": "Jin",
+            "hexColor": "#E5DE14"
+        },
+        {
+            "name": "Joara",
+            "hexColor": "#019408"
+        },
+        {
+            "name": "Johor",
+            "hexColor": "#1E70BB"
+        },
+        {
+            "name": "Jolof",
+            "hexColor": "#D7D77D"
+        },
+        {
+            "name": "Jumla",
+            "hexColor": "#E2FC52"
+        },
+        {
+            "name": "Junagarh",
+            "hexColor": "#C8E5ED"
+        },
+        {
+            "name": "Kaabu",
+            "hexColor": "#FF37B9"
+        },
+        {
+            "name": "Kabylia",
+            "hexColor": "#3C8C46"
+        },
+        {
+            "name": "Kachar",
+            "hexColor": "#3F14B1"
+        },
+        {
+            "name": "Kaffa",
+            "hexColor": "#CDCADD"
+        },
+        {
+            "name": "Kalahandi",
+            "hexColor": "#5DB78C"
+        },
+        {
+            "name": "Kale",
+            "hexColor": "#94B603"
+        },
+        {
+            "name": "Kalmyk",
+            "hexColor": "#3A4149"
+        },
+        {
+            "name": "Kalpi",
+            "hexColor": "#170E5D"
+        },
+        {
+            "name": "Kalundwe",
+            "hexColor": "#633CEF"
+        },
+        {
+            "name": "Kamchadals",
+            "hexColor": "#B68F95"
+        },
+        {
+            "name": "Kandy",
+            "hexColor": "#2B94F6"
+        },
+        {
+            "name": "Kanem Bornu",
+            "hexColor": "#1E83A2"
+        },
+        {
+            "name": "Kangra",
+            "hexColor": "#1D7CFF"
+        },
+        {
+            "name": "Kano",
+            "hexColor": "#30C1F1"
+        },
+        {
+            "name": "Kaqchikel",
+            "hexColor": "#4B88BF"
+        },
+        {
+            "name": "Karadel",
+            "hexColor": "#76C1B1"
+        },
+        {
+            "name": "Karagwe",
+            "hexColor": "#30B1A9"
+        },
+        {
+            "name": "Karaman",
+            "hexColor": "#5AA0BE"
+        },
+        {
+            "name": "Karelia",
+            "hexColor": "#F42626"
+        },
+        {
+            "name": "Kasanje",
+            "hexColor": "#C7A027"
+        },
+        {
+            "name": "Kashen",
+            "hexColor": "#75A775"
+        },
+        {
+            "name": "Kashmir",
+            "hexColor": "#3F961E"
+        },
+        {
+            "name": "Kasihta",
+            "hexColor": "#4BA2AB"
+        },
+        {
+            "name": "Kaskaskia",
+            "hexColor": "#F68168"
+        },
+        {
+            "name": "Kathiawar",
+            "hexColor": "#D45437"
+        },
+        {
+            "name": "Kathmandu",
+            "hexColor": "#AD8D9E"
+        },
+        {
+            "name": "Katsina",
+            "hexColor": "#94F9C4"
+        },
+        {
+            "name": "Kauai",
+            "hexColor": "#BE5A5A"
+        },
+        {
+            "name": "Kaurna",
+            "hexColor": "#BE4B1E"
+        },
+        {
+            "name": "Kazakh",
+            "hexColor": "#CAD9AA"
+        },
+        {
+            "name": "Kazan",
+            "hexColor": "#616687"
+        },
+        {
+            "name": "Kazembe",
+            "hexColor": "#C7A0EF"
+        },
+        {
+            "name": "Kedah",
+            "hexColor": "#AA4843"
+        },
+        {
+            "name": "Keladi",
+            "hexColor": "#9C8121"
+        },
+        {
+            "name": "Kelantan",
+            "hexColor": "#7B0309"
+        },
+        {
+            "name": "Keonhjar",
+            "hexColor": "#EDCC03"
+        },
+        {
+            "name": "Keres",
+            "hexColor": "#A21C3A"
+        },
+        {
+            "name": "Kerman",
+            "hexColor": "#68BD68"
+        },
+        {
+            "name": "Khalkha",
+            "hexColor": "#E06853"
+        },
+        {
+            "name": "Khandesh",
+            "hexColor": "#8A9767"
+        },
+        {
+            "name": "Khiva",
+            "hexColor": "#D2AF3C"
+        },
+        {
+            "name": "Khmer",
+            "hexColor": "#7FB43C"
+        },
+        {
+            "name": "Khorasan",
+            "hexColor": "#82A8E0"
+        },
+        {
+            "name": "Khorchin",
+            "hexColor": "#DD5DAA"
+        },
+        {
+            "name": "Khoshuud",
+            "hexColor": "#FF6526"
+        },
+        {
+            "name": "Kiche",
+            "hexColor": "#5E24BF"
+        },
+        {
+            "name": "Kiev",
+            "hexColor": "#517BD2"
+        },
+        {
+            "name": "Kikondja",
+            "hexColor": "#633C27"
+        },
+        {
+            "name": "Kikuchi",
+            "hexColor": "#F8B862"
+        },
+        {
+            "name": "Kildare",
+            "hexColor": "#6882AC"
+        },
+        {
+            "name": "Kiowa",
+            "hexColor": "#79D273"
+        },
+        {
+            "name": "Kispoko",
+            "hexColor": "#A32BCA"
+        },
+        {
+            "name": "Kitabatake",
+            "hexColor": "#71686C"
+        },
+        {
+            "name": "Kitara",
+            "hexColor": "#FFE139"
+        },
+        {
+            "name": "Kleves",
+            "hexColor": "#ADB071"
+        },
+        {
+            "name": "Knights",
+            "hexColor": "#6A7FB7"
+        },
+        {
+            "name": "Koch",
+            "hexColor": "#A3424A"
+        },
+        {
+            "name": "Kochin",
+            "hexColor": "#FFBCE1"
+        },
+        {
+            "name": "Koho",
+            "hexColor": "#C27DC9"
+        },
+        {
+            "name": "Kokkand",
+            "hexColor": "#284BAF"
+        },
+        {
+            "name": "Kolathunad",
+            "hexColor": "#BC1540"
+        },
+        {
+            "name": "Kong",
+            "hexColor": "#8962C3"
+        },
+        {
+            "name": "Kongo",
+            "hexColor": "#C7A08B"
+        },
+        {
+            "name": "Kono",
+            "hexColor": "#165E83"
+        },
+        {
+            "name": "Konstanz",
+            "hexColor": "#FF853B"
+        },
+        {
+            "name": "Korea",
+            "hexColor": "#1A35B1"
+        },
+        {
+            "name": "Krakow",
+            "hexColor": "#8AC1E7"
+        },
+        {
+            "name": "Kuba",
+            "hexColor": "#9F3CBD"
+        },
+        {
+            "name": "Kulin",
+            "hexColor": "#202375"
+        },
+        {
+            "name": "Kumaon",
+            "hexColor": "#87DB87"
+        },
+        {
+            "name": "Kurland",
+            "hexColor": "#638999"
+        },
+        {
+            "name": "Kutai",
+            "hexColor": "#B274DD"
+        },
+        {
+            "name": "Lacandon",
+            "hexColor": "#E0ECBF"
+        },
+        {
+            "name": "Ladakh",
+            "hexColor": "#176E5A"
+        },
+        {
+            "name": "Lakota",
+            "hexColor": "#131B51"
+        },
+        {
+            "name": "Lanao",
+            "hexColor": "#2C6896"
+        },
+        {
+            "name": "Landshut",
+            "hexColor": "#23DCF0"
+        },
+        {
+            "name": "Lanfang",
+            "hexColor": "#2BA59D"
+        },
+        {
+            "name": "Lan Na",
+            "hexColor": "#4A5C80"
+        },
+        {
+            "name": "Lan Xang",
+            "hexColor": "#D22E1C"
+        },
+        {
+            "name": "La Plata",
+            "hexColor": "#6566A3"
+        },
+        {
+            "name": "Larrakia",
+            "hexColor": "#DDB744"
+        },
+        {
+            "name": "Latgalia",
+            "hexColor": "#4E410F"
+        },
+        {
+            "name": "Latin Empire",
+            "hexColor": "#FFD42A"
+        },
+        {
+            "name": "Lau",
+            "hexColor": "#FADCB4"
+        },
+        {
+            "name": "Lauenburg",
+            "hexColor": "#4F8B63"
+        },
+        {
+            "name": "Lebanon",
+            "hexColor": "#E16E19"
+        },
+        {
+            "name": "Leinster",
+            "hexColor": "#30A433"
+        },
+        {
+            "name": "Lenape",
+            "hexColor": "#4C6E96"
+        },
+        {
+            "name": "Leon",
+            "hexColor": "#630E57"
+        },
+        {
+            "name": "Liang",
+            "hexColor": "#6A6168"
+        },
+        {
+            "name": "Libertatia",
+            "hexColor": "#F2F9FF"
+        },
+        {
+            "name": "Liege",
+            "hexColor": "#95BA25"
+        },
+        {
+            "name": "Ligor",
+            "hexColor": "#10727C"
+        },
+        {
+            "name": "Limbdi",
+            "hexColor": "#D09D21"
+        },
+        {
+            "name": "Limbuwan",
+            "hexColor": "#B57203"
+        },
+        {
+            "name": "Lipan",
+            "hexColor": "#623A6D"
+        },
+        {
+            "name": "Lippe",
+            "hexColor": "#155395"
+        },
+        {
+            "name": "Lithuania",
+            "hexColor": "#9A4574"
+        },
+        {
+            "name": "Livonia",
+            "hexColor": "#140E96"
+        },
+        {
+            "name": "Livonian Order",
+            "hexColor": "#7D1E64"
+        },
+        {
+            "name": "Loango",
+            "hexColor": "#C8CA55"
+        },
+        {
+            "name": "Lorraine",
+            "hexColor": "#738ECD"
+        },
+        {
+            "name": "Lotharingia",
+            "hexColor": "#5F6ACF"
+        },
+        {
+            "name": "Louisiana",
+            "hexColor": "#903435"
+        },
+        {
+            "name": "Luang Prabang",
+            "hexColor": "#5D9358"
+        },
+        {
+            "name": "Luba",
+            "hexColor": "#61D1FB"
+        },
+        {
+            "name": "Lucca",
+            "hexColor": "#92FB52"
+        },
+        {
+            "name": "Lunda",
+            "hexColor": "#C73C27"
+        },
+        {
+            "name": "Lundu",
+            "hexColor": "#721EE5"
+        },
+        {
+            "name": "Luneburg",
+            "hexColor": "#876D93"
+        },
+        {
+            "name": "Luristan",
+            "hexColor": "#CFD52F"
+        },
+        {
+            "name": "Luwu",
+            "hexColor": "#8485C5"
+        },
+        {
+            "name": "Luxembourg",
+            "hexColor": "#358C49"
+        },
+        {
+            "name": "Mac Carthy",
+            "hexColor": "#96E796"
+        },
+        {
+            "name": "Madurai",
+            "hexColor": "#E95858"
+        },
+        {
+            "name": "Madyaas",
+            "hexColor": "#D09137"
+        },
+        {
+            "name": "Maeda",
+            "hexColor": "#9079AD"
+        },
+        {
+            "name": "Magdeburg",
+            "hexColor": "#BD7363"
+        },
+        {
+            "name": "Maguindanao",
+            "hexColor": "#77201D"
+        },
+        {
+            "name": "Mahafaly",
+            "hexColor": "#BB60C1"
+        },
+        {
+            "name": "Mahican",
+            "hexColor": "#94961C"
+        },
+        {
+            "name": "Mahra",
+            "hexColor": "#35BFB0"
+        },
+        {
+            "name": "Mainz",
+            "hexColor": "#B29157"
+        },
+        {
+            "name": "Majapahit",
+            "hexColor": "#C91C36"
+        },
+        {
+            "name": "Majeerteen",
+            "hexColor": "#DCC864"
+        },
+        {
+            "name": "Majorca",
+            "hexColor": "#F36F6B"
+        },
+        {
+            "name": "Makassar",
+            "hexColor": "#75B380"
+        },
+        {
+            "name": "Makua",
+            "hexColor": "#93923E"
+        },
+        {
+            "name": "Makuria",
+            "hexColor": "#B85034"
+        },
+        {
+            "name": "Makwanpur",
+            "hexColor": "#123B73"
+        },
+        {
+            "name": "Malabar",
+            "hexColor": "#3D9B20"
+        },
+        {
+            "name": "Malacca",
+            "hexColor": "#6460C5"
+        },
+        {
+            "name": "Malagana",
+            "hexColor": "#BFB95D"
+        },
+        {
+            "name": "Malaya",
+            "hexColor": "#500AA5"
+        },
+        {
+            "name": "Maldives",
+            "hexColor": "#BF1919"
+        },
+        {
+            "name": "Mali",
+            "hexColor": "#FFFFB9"
+        },
+        {
+            "name": "Malindi",
+            "hexColor": "#99D287"
+        },
+        {
+            "name": "Maliseet",
+            "hexColor": "#975F13"
+        },
+        {
+            "name": "Malta",
+            "hexColor": "#50C878"
+        },
+        {
+            "name": "Malwa",
+            "hexColor": "#C00518"
+        },
+        {
+            "name": "Manchu",
+            "hexColor": "#A58439"
+        },
+        {
+            "name": "Manipur",
+            "hexColor": "#95BF75"
+        },
+        {
+            "name": "Mann",
+            "hexColor": "#852B1B"
+        },
+        {
+            "name": "Mantua",
+            "hexColor": "#BF5365"
+        },
+        {
+            "name": "Mapuche",
+            "hexColor": "#E14723"
+        },
+        {
+            "name": "Marathas",
+            "hexColor": "#437CB5"
+        },
+        {
+            "name": "Maravi",
+            "hexColor": "#A92222"
+        },
+        {
+            "name": "Maregh",
+            "hexColor": "#FCD116"
+        },
+        {
+            "name": "Marehan",
+            "hexColor": "#062A78"
+        },
+        {
+            "name": "Marrakesh",
+            "hexColor": "#54F2DF"
+        },
+        {
+            "name": "Marwar",
+            "hexColor": "#C06FB3"
+        },
+        {
+            "name": "Mataatua",
+            "hexColor": "#E1BEBE"
+        },
+        {
+            "name": "Mataram",
+            "hexColor": "#E3A25E"
+        },
+        {
+            "name": "Matlatzinca",
+            "hexColor": "#4E95BF"
+        },
+        {
+            "name": "Maui",
+            "hexColor": "#418C3C"
+        },
+        {
+            "name": "Maya",
+            "hexColor": "#5E88BF"
+        },
+        {
+            "name": "Maynila",
+            "hexColor": "#382078"
+        },
+        {
+            "name": "Mazovia",
+            "hexColor": "#C3959B"
+        },
+        {
+            "name": "Mdokhams",
+            "hexColor": "#21A867"
+        },
+        {
+            "name": "Meath",
+            "hexColor": "#0F80FD"
+        },
+        {
+            "name": "Mecklenburg",
+            "hexColor": "#378C8F"
+        },
+        {
+            "name": "Medina",
+            "hexColor": "#BF4456"
+        },
+        {
+            "name": "Medri Bahri",
+            "hexColor": "#48878C"
+        },
+        {
+            "name": "Meissen",
+            "hexColor": "#3AAE3D"
+        },
+        {
+            "name": "Memmingen",
+            "hexColor": "#D22539"
+        },
+        {
+            "name": "Mentese",
+            "hexColor": "#6C3082"
+        },
+        {
+            "name": "Merina",
+            "hexColor": "#2B2BBA"
+        },
+        {
+            "name": "Mescalero",
+            "hexColor": "#DA9E4F"
+        },
+        {
+            "name": "Mewar",
+            "hexColor": "#8B8316"
+        },
+        {
+            "name": "Mewat",
+            "hexColor": "#6B15C4"
+        },
+        {
+            "name": "Mexico",
+            "hexColor": "#DB7C8B"
+        },
+        {
+            "name": "Miami",
+            "hexColor": "#6E7C9C"
+        },
+        {
+            "name": "Mianjin",
+            "hexColor": "#94583B"
+        },
+        {
+            "name": "Miao",
+            "hexColor": "#0067A5"
+        },
+        {
+            "name": "Mikhlaf",
+            "hexColor": "#74448F"
+        },
+        {
+            "name": "Mikmaq",
+            "hexColor": "#6E3032"
+        },
+        {
+            "name": "Milan",
+            "hexColor": "#A66C92"
+        },
+        {
+            "name": "Min",
+            "hexColor": "#CEEBD1"
+        },
+        {
+            "name": "Ming",
+            "hexColor": "#B38068"
+        },
+        {
+            "name": "Miskito",
+            "hexColor": "#4A88F1"
+        },
+        {
+            "name": "Mississage",
+            "hexColor": "#EEAD65"
+        },
+        {
+            "name": "Mixtec",
+            "hexColor": "#9E1278"
+        },
+        {
+            "name": "Modena",
+            "hexColor": "#F1FC97"
+        },
+        {
+            "name": "Mogadishu",
+            "hexColor": "#D4AF37"
+        },
+        {
+            "name": "Mohawk",
+            "hexColor": "#F4972A"
+        },
+        {
+            "name": "Moldavia",
+            "hexColor": "#889D17"
+        },
+        {
+            "name": "Mombasa",
+            "hexColor": "#A93636"
+        },
+        {
+            "name": "Mong Kawng",
+            "hexColor": "#2C3341"
+        },
+        {
+            "name": "Mong Mao",
+            "hexColor": "#1B6D6B"
+        },
+        {
+            "name": "Mong Nai",
+            "hexColor": "#ACA406"
+        },
+        {
+            "name": "Mongol Empire",
+            "hexColor": "#82B4F0"
+        },
+        {
+            "name": "Mongol Khanate",
+            "hexColor": "#6C9941"
+        },
+        {
+            "name": "Mong Pai",
+            "hexColor": "#4E2310"
+        },
+        {
+            "name": "Mong Yang",
+            "hexColor": "#2952AF"
+        },
+        {
+            "name": "Montenegro",
+            "hexColor": "#276C8C"
+        },
+        {
+            "name": "Montferrat",
+            "hexColor": "#60B706"
+        },
+        {
+            "name": "Montfort-Bregenz",
+            "hexColor": "#65BD17"
+        },
+        {
+            "name": "Morang",
+            "hexColor": "#EAB1D0"
+        },
+        {
+            "name": "Moravia",
+            "hexColor": "#E89512"
+        },
+        {
+            "name": "Morea",
+            "hexColor": "#A87981"
+        },
+        {
+            "name": "Mori",
+            "hexColor": "#E6B422"
+        },
+        {
+            "name": "Morocco",
+            "hexColor": "#BF6E3E"
+        },
+        {
+            "name": "Mossi",
+            "hexColor": "#1B802D"
+        },
+        {
+            "name": "Muan Phuang",
+            "hexColor": "#AA4C30"
+        },
+        {
+            "name": "Mughal",
+            "hexColor": "#216030"
+        },
+        {
+            "name": "Muisca",
+            "hexColor": "#A2B640"
+        },
+        {
+            "name": "Mulhouse",
+            "hexColor": "#9BAA88"
+        },
+        {
+            "name": "Multan",
+            "hexColor": "#5F8BD6"
+        },
+        {
+            "name": "Munich",
+            "hexColor": "#136698"
+        },
+        {
+            "name": "Munster",
+            "hexColor": "#CD6750"
+        },
+        {
+            "name": "Muscowy",
+            "hexColor": "#CEB561"
+        },
+        {
+            "name": "Mushashaiyyah",
+            "hexColor": "#8C6698"
+        },
+        {
+            "name": "Mutapa",
+            "hexColor": "#BAA44E"
+        },
+        {
+            "name": "Mysore",
+            "hexColor": "#ECF2F3"
+        },
+        {
+            "name": "Mzab",
+            "hexColor": "#B9ACD0"
+        },
+        {
+            "name": "Nagaur",
+            "hexColor": "#F9A037"
+        },
+        {
+            "name": "Nagpur",
+            "hexColor": "#D75600"
+        },
+        {
+            "name": "Najd",
+            "hexColor": "#326946"
+        },
+        {
+            "name": "Najran",
+            "hexColor": "#6E9FE1"
+        },
+        {
+            "name": "Nakawe",
+            "hexColor": "#E55D14"
+        },
+        {
+            "name": "Nanbu",
+            "hexColor": "#27649D"
+        },
+        {
+            "name": "Naples",
+            "hexColor": "#643296"
+        },
+        {
+            "name": "Nassau",
+            "hexColor": "#5B53CB"
+        },
+        {
+            "name": "Natchez",
+            "hexColor": "#9C2BAC"
+        },
+        {
+            "name": "Natchitoches",
+            "hexColor": "#31B687"
+        },
+        {
+            "name": "Natives",
+            "hexColor": "#CBA467"
+        },
+        {
+            "name": "Navajo",
+            "hexColor": "#7EB49A"
+        },
+        {
+            "name": "Navanagar",
+            "hexColor": "#9154B7"
+        },
+        {
+            "name": "Navarra",
+            "hexColor": "#FCE93A"
+        },
+        {
+            "name": "Naxos",
+            "hexColor": "#18327B"
+        },
+        {
+            "name": "Ndongo",
+            "hexColor": "#633C8B"
+        },
+        {
+            "name": "Nehiyaw",
+            "hexColor": "#691E29"
+        },
+        {
+            "name": "Nepal",
+            "hexColor": "#D70C40"
+        },
+        {
+            "name": "Netherlands",
+            "hexColor": "#DC8A39"
+        },
+        {
+            "name": "Nevers",
+            "hexColor": "#C368E4"
+        },
+        {
+            "name": "New Providence",
+            "hexColor": "#423346"
+        },
+        {
+            "name": "Ning",
+            "hexColor": "#71DDF8"
+        },
+        {
+            "name": "Nivkh",
+            "hexColor": "#69E2E9"
+        },
+        {
+            "name": "Nizhny Novgorod",
+            "hexColor": "#B0484D"
+        },
+        {
+            "name": "Nkore",
+            "hexColor": "#7CD479"
+        },
+        {
+            "name": "Nogai",
+            "hexColor": "#007891"
+        },
+        {
+            "name": "Noongar",
+            "hexColor": "#ADB133"
+        },
+        {
+            "name": "Normandy",
+            "hexColor": "#838A74"
+        },
+        {
+            "name": "North Haixi",
+            "hexColor": "#87E1C2"
+        },
+        {
+            "name": "Northumberland",
+            "hexColor": "#539569"
+        },
+        {
+            "name": "Norway",
+            "hexColor": "#75A5BC"
+        },
+        {
+            "name": "Novgorod",
+            "hexColor": "#617E25"
+        },
+        {
+            "name": "Nsenga",
+            "hexColor": "#CFBB94"
+        },
+        {
+            "name": "Nubia",
+            "hexColor": "#513ADF"
+        },
+        {
+            "name": "Nupe",
+            "hexColor": "#D3544F"
+        },
+        {
+            "name": "Nuremberg",
+            "hexColor": "#F3700F"
+        },
+        {
+            "name": "Oahu",
+            "hexColor": "#968241"
+        },
+        {
+            "name": "Oda",
+            "hexColor": "#E0041B"
+        },
+        {
+            "name": "Ogaadeen",
+            "hexColor": "#A9A865"
+        },
+        {
+            "name": "Ogasawara",
+            "hexColor": "#C97E91"
+        },
+        {
+            "name": "Ohkay Owingeh",
+            "hexColor": "#BB7F22"
+        },
+        {
+            "name": "Oirat Horde",
+            "hexColor": "#CCB8B1"
+        },
+        {
+            "name": "Ojibwa",
+            "hexColor": "#EBE5E9"
+        },
+        {
+            "name": "Oka",
+            "hexColor": "#2B88CF"
+        },
+        {
+            "name": "Oldenburg",
+            "hexColor": "#938276"
+        },
+        {
+            "name": "Oman",
+            "hexColor": "#628699"
+        },
+        {
+            "name": "Oneida",
+            "hexColor": "#4F2CBB"
+        },
+        {
+            "name": "Oneota",
+            "hexColor": "#811F40"
+        },
+        {
+            "name": "Onondaga",
+            "hexColor": "#6B4D3F"
+        },
+        {
+            "name": "Opole",
+            "hexColor": "#758C24"
+        },
+        {
+            "name": "Orissa",
+            "hexColor": "#D26A2F"
+        },
+        {
+            "name": "Orleans",
+            "hexColor": "#D8798B"
+        },
+        {
+            "name": "Ormond",
+            "hexColor": "#DCE32B"
+        },
+        {
+            "name": "Ormuz",
+            "hexColor": "#EAE97C"
+        },
+        {
+            "name": "Osage",
+            "hexColor": "#FBF568"
+        },
+        {
+            "name": "Osheaga",
+            "hexColor": "#86AF1F"
+        },
+        {
+            "name": "Osnabruck",
+            "hexColor": "#878AC0"
+        },
+        {
+            "name": "Otomi",
+            "hexColor": "#447FF1"
+        },
+        {
+            "name": "Otomo",
+            "hexColor": "#7B4741"
+        },
+        {
+            "name": "Ottawa",
+            "hexColor": "#013015"
+        },
+        {
+            "name": "Ottomans",
+            "hexColor": "#7ECB78"
+        },
+        {
+            "name": "Ouchi",
+            "hexColor": "#D89191"
+        },
+        {
+            "name": "Oudh",
+            "hexColor": "#7AB361"
+        },
+        {
+            "name": "Oyo",
+            "hexColor": "#D3B8B3"
+        },
+        {
+            "name": "Pacaha",
+            "hexColor": "#9747C5"
+        },
+        {
+            "name": "Pacajes",
+            "hexColor": "#7E93C4"
+        },
+        {
+            "name": "Paderborn",
+            "hexColor": "#D65A4F"
+        },
+        {
+            "name": "Padova",
+            "hexColor": "#BA6A3A"
+        },
+        {
+            "name": "Pagarruyung",
+            "hexColor": "#FFBA00"
+        },
+        {
+            "name": "Pahang",
+            "hexColor": "#62BAAB"
+        },
+        {
+            "name": "Palatinate",
+            "hexColor": "#39978E"
+        },
+        {
+            "name": "Palawa",
+            "hexColor": "#664B32"
+        },
+        {
+            "name": "Palembang",
+            "hexColor": "#A34495"
+        },
+        {
+            "name": "Palitana",
+            "hexColor": "#EDCC14"
+        },
+        {
+            "name": "Pangasinan",
+            "hexColor": "#45163B"
+        },
+        {
+            "name": "Panna",
+            "hexColor": "#FEFE00"
+        },
+        {
+            "name": "Papal",
+            "hexColor": "#D3DCB2"
+        },
+        {
+            "name": "Paraguay",
+            "hexColor": "#4BBC3C"
+        },
+        {
+            "name": "Parlakhimidi",
+            "hexColor": "#1F91D9"
+        },
+        {
+            "name": "Parma",
+            "hexColor": "#80CA81"
+        },
+        {
+            "name": "Pasai",
+            "hexColor": "#E2515D"
+        },
+        {
+            "name": "Passau",
+            "hexColor": "#EF6387"
+        },
+        {
+            "name": "Pate",
+            "hexColor": "#686FD0"
+        },
+        {
+            "name": "Patiala",
+            "hexColor": "#E5E71A"
+        },
+        {
+            "name": "Patna",
+            "hexColor": "#721964"
+        },
+        {
+            "name": "Pattani",
+            "hexColor": "#8C86A4"
+        },
+        {
+            "name": "Pawnee",
+            "hexColor": "#2E3192"
+        },
+        {
+            "name": "Pegu",
+            "hexColor": "#8CD2A0"
+        },
+        {
+            "name": "Penobscot",
+            "hexColor": "#015AA8"
+        },
+        {
+            "name": "Peoria",
+            "hexColor": "#4312BB"
+        },
+        {
+            "name": "Pequot",
+            "hexColor": "#1C4696"
+        },
+        {
+            "name": "Perak",
+            "hexColor": "#4C7A75"
+        },
+        {
+            "name": "Perm",
+            "hexColor": "#EC9F5A"
+        },
+        {
+            "name": "Persia",
+            "hexColor": "#3E8114"
+        },
+        {
+            "name": "Peru",
+            "hexColor": "#7C8CA2"
+        },
+        {
+            "name": "Perugia",
+            "hexColor": "#9DAEDB"
+        },
+        {
+            "name": "Phagmodrupa",
+            "hexColor": "#5D6697"
+        },
+        {
+            "name": "Picardy",
+            "hexColor": "#B8B87A"
+        },
+        {
+            "name": "Pima",
+            "hexColor": "#A36209"
+        },
+        {
+            "name": "Pirates",
+            "hexColor": "#0A0A0A"
+        },
+        {
+            "name": "Pisa",
+            "hexColor": "#B1966D"
+        },
+        {
+            "name": "Poland",
+            "hexColor": "#C55C6A"
+        },
+        {
+            "name": "Polotsk",
+            "hexColor": "#10719B"
+        },
+        {
+            "name": "Pommerania",
+            "hexColor": "#3D8842"
+        },
+        {
+            "name": "Porbandar",
+            "hexColor": "#B524CB"
+        },
+        {
+            "name": "Port Royal",
+            "hexColor": "#972F20"
+        },
+        {
+            "name": "Portugal",
+            "hexColor": "#286E8C"
+        },
+        {
+            "name": "Potawatomi",
+            "hexColor": "#3CB878"
+        },
+        {
+            "name": "Potiguara",
+            "hexColor": "#1FA47A"
+        },
+        {
+            "name": "Powhatan",
+            "hexColor": "#FFF799"
+        },
+        {
+            "name": "Principality Of Achaia",
+            "hexColor": "#FFD533"
+        },
+        {
+            "name": "Prome",
+            "hexColor": "#9B0316"
+        },
+        {
+            "name": "Provence",
+            "hexColor": "#5DA0A3"
+        },
+        {
+            "name": "Prussia",
+            "hexColor": "#8F8D80"
+        },
+        {
+            "name": "Pskov",
+            "hexColor": "#527B5F"
+        },
+        {
+            "name": "Pueblo",
+            "hexColor": "#A28008"
+        },
+        {
+            "name": "Punjab",
+            "hexColor": "#BB4F56"
+        },
+        {
+            "name": "Qara Koyunlu",
+            "hexColor": "#367588"
+        },
+        {
+            "name": "Qasim Khanate",
+            "hexColor": "#52877C"
+        },
+        {
+            "name": "Qi",
+            "hexColor": "#3AA871"
+        },
+        {
+            "name": "Qin",
+            "hexColor": "#277D8F"
+        },
+        {
+            "name": "Qing",
+            "hexColor": "#ED9812"
+        },
+        {
+            "name": "Qom",
+            "hexColor": "#6B6BE1"
+        },
+        {
+            "name": "Quebec",
+            "hexColor": "#C28C56"
+        },
+        {
+            "name": "Quito",
+            "hexColor": "#C47E7E"
+        },
+        {
+            "name": "Quizquiz",
+            "hexColor": "#1FEF79"
+        },
+        {
+            "name": "Ragusa",
+            "hexColor": "#A05280"
+        },
+        {
+            "name": "Rajkot",
+            "hexColor": "#14ED56"
+        },
+        {
+            "name": "Rajputana",
+            "hexColor": "#310D16"
+        },
+        {
+            "name": "Ramazan",
+            "hexColor": "#820000"
+        },
+        {
+            "name": "Rassids",
+            "hexColor": "#CD0A0A"
+        },
+        {
+            "name": "Ratanpur",
+            "hexColor": "#427E76"
+        },
+        {
+            "name": "Ravensburg",
+            "hexColor": "#6C8BE4"
+        },
+        {
+            "name": "Rebels",
+            "hexColor": "#1E1E1E"
+        },
+        {
+            "name": "Regensburg",
+            "hexColor": "#DD296F"
+        },
+        {
+            "name": "Rewa Kantha",
+            "hexColor": "#45833E"
+        },
+        {
+            "name": "Rhade",
+            "hexColor": "#DA710B"
+        },
+        {
+            "name": "Riga",
+            "hexColor": "#B7B0C2"
+        },
+        {
+            "name": "Rohilkandh",
+            "hexColor": "#5954FF"
+        },
+        {
+            "name": "Roman Empire",
+            "hexColor": "#A70A64"
+        },
+        {
+            "name": "Romania",
+            "hexColor": "#1560B2"
+        },
+        {
+            "name": "Rostov",
+            "hexColor": "#E3DD4D"
+        },
+        {
+            "name": "Rothenburg",
+            "hexColor": "#D20F0F"
+        },
+        {
+            "name": "Rozwi",
+            "hexColor": "#CC7944"
+        },
+        {
+            "name": "Rugen",
+            "hexColor": "#333B4C"
+        },
+        {
+            "name": "Rum",
+            "hexColor": "#1EA0CB"
+        },
+        {
+            "name": "Ruppin",
+            "hexColor": "#883042"
+        },
+        {
+            "name": "Russia",
+            "hexColor": "#608350"
+        },
+        {
+            "name": "Rwanda",
+            "hexColor": "#D5A012"
+        },
+        {
+            "name": "Ryazan",
+            "hexColor": "#92864D"
+        },
+        {
+            "name": "Ryukyu",
+            "hexColor": "#5A8A85"
+        },
+        {
+            "name": "Sadiya",
+            "hexColor": "#3F7325"
+        },
+        {
+            "name": "Sakalava",
+            "hexColor": "#2B79BC"
+        },
+        {
+            "name": "Sale",
+            "hexColor": "#F6675E"
+        },
+        {
+            "name": "Salish",
+            "hexColor": "#004A80"
+        },
+        {
+            "name": "Saluzzo",
+            "hexColor": "#89B9CB"
+        },
+        {
+            "name": "Salzburg",
+            "hexColor": "#816D09"
+        },
+        {
+            "name": "Sambalpur",
+            "hexColor": "#74CF4B"
+        },
+        {
+            "name": "Sambas",
+            "hexColor": "#FF5904"
+        },
+        {
+            "name": "Sami",
+            "hexColor": "#FCD116"
+        },
+        {
+            "name": "Samoa",
+            "hexColor": "#643737"
+        },
+        {
+            "name": "Samtskhe",
+            "hexColor": "#169D39"
+        },
+        {
+            "name": "Sardinia",
+            "hexColor": "#7592A7"
+        },
+        {
+            "name": "Sardinia Piedmont",
+            "hexColor": "#61D1FB"
+        },
+        {
+            "name": "Sarigyogir",
+            "hexColor": "#DBCE5E"
+        },
+        {
+            "name": "Saruhan",
+            "hexColor": "#007B0C"
+        },
+        {
+            "name": "Satake",
+            "hexColor": "#028760"
+        },
+        {
+            "name": "Satapo",
+            "hexColor": "#AC692F"
+        },
+        {
+            "name": "Savoy",
+            "hexColor": "#EBC4E7"
+        },
+        {
+            "name": "Saxony",
+            "hexColor": "#9B93B4"
+        },
+        {
+            "name": "Scandinavia",
+            "hexColor": "#3E7ABD"
+        },
+        {
+            "name": "Schweiz",
+            "hexColor": "#997A6C"
+        },
+        {
+            "name": "Scotland",
+            "hexColor": "#C7AF0C"
+        },
+        {
+            "name": "Semien",
+            "hexColor": "#E87991"
+        },
+        {
+            "name": "Seneca",
+            "hexColor": "#BD99B0"
+        },
+        {
+            "name": "Serbia",
+            "hexColor": "#A64839"
+        },
+        {
+            "name": "Shammar",
+            "hexColor": "#FFCC2D"
+        },
+        {
+            "name": "Shan",
+            "hexColor": "#FAF0D7"
+        },
+        {
+            "name": "Sharjah",
+            "hexColor": "#4078AC"
+        },
+        {
+            "name": "Shawnee",
+            "hexColor": "#D46976"
+        },
+        {
+            "name": "Shaybanid",
+            "hexColor": "#5986A6"
+        },
+        {
+            "name": "Shewa",
+            "hexColor": "#01C8C8"
+        },
+        {
+            "name": "Shiba",
+            "hexColor": "#00A3AF"
+        },
+        {
+            "name": "Shimazu",
+            "hexColor": "#65318E"
+        },
+        {
+            "name": "Shirvanshah",
+            "hexColor": "#62CEFD"
+        },
+        {
+            "name": "Shoni",
+            "hexColor": "#59B9C6"
+        },
+        {
+            "name": "Shoshone",
+            "hexColor": "#7C4531"
+        },
+        {
+            "name": "Shu",
+            "hexColor": "#A7213E"
+        },
+        {
+            "name": "Shun",
+            "hexColor": "#8CA9B7"
+        },
+        {
+            "name": "Siak",
+            "hexColor": "#15C444"
+        },
+        {
+            "name": "Siam",
+            "hexColor": "#59C2DD"
+        },
+        {
+            "name": "Sibir",
+            "hexColor": "#8B8AA0"
+        },
+        {
+            "name": "Sicily",
+            "hexColor": "#49984C"
+        },
+        {
+            "name": "Siena",
+            "hexColor": "#A5AB73"
+        },
+        {
+            "name": "Sikkim",
+            "hexColor": "#5DB44C"
+        },
+        {
+            "name": "Silesia",
+            "hexColor": "#54A65D"
+        },
+        {
+            "name": "Sind",
+            "hexColor": "#876855"
+        },
+        {
+            "name": "Sioux",
+            "hexColor": "#440E62"
+        },
+        {
+            "name": "Sirhind",
+            "hexColor": "#F97803"
+        },
+        {
+            "name": "Sirmur",
+            "hexColor": "#E5450C"
+        },
+        {
+            "name": "Sistan",
+            "hexColor": "#E04A36"
+        },
+        {
+            "name": "Sligo",
+            "hexColor": "#BF9BCB"
+        },
+        {
+            "name": "Slovakia",
+            "hexColor": "#2283C1"
+        },
+        {
+            "name": "Smolensk",
+            "hexColor": "#6AA02B"
+        },
+        {
+            "name": "So",
+            "hexColor": "#E7609E"
+        },
+        {
+            "name": "Sofala",
+            "hexColor": "#376C9E"
+        },
+        {
+            "name": "Sofala Swa",
+            "hexColor": "#F98C0F"
+        },
+        {
+            "name": "Sokoto",
+            "hexColor": "#C91346"
+        },
+        {
+            "name": "Solon",
+            "hexColor": "#207773"
+        },
+        {
+            "name": "Somalia",
+            "hexColor": "#3691AB"
+        },
+        {
+            "name": "Songhai",
+            "hexColor": "#3EAF97"
+        },
+        {
+            "name": "Sonora",
+            "hexColor": "#EB870F"
+        },
+        {
+            "name": "Sorbia",
+            "hexColor": "#435080"
+        },
+        {
+            "name": "Soyo",
+            "hexColor": "#C73C8B"
+        },
+        {
+            "name": "Spain",
+            "hexColor": "#E7B50C"
+        },
+        {
+            "name": "Spoleto",
+            "hexColor": "#A91A05"
+        },
+        {
+            "name": "Stadacona",
+            "hexColor": "#5CEB1D"
+        },
+        {
+            "name": "Stettin",
+            "hexColor": "#21773A"
+        },
+        {
+            "name": "Styria",
+            "hexColor": "#3B7E3B"
+        },
+        {
+            "name": "Sukhothai",
+            "hexColor": "#9F7FFF"
+        },
+        {
+            "name": "Sulu",
+            "hexColor": "#59A490"
+        },
+        {
+            "name": "Sunda",
+            "hexColor": "#208387"
+        },
+        {
+            "name": "Surguja",
+            "hexColor": "#3CDE4B"
+        },
+        {
+            "name": "Sus",
+            "hexColor": "#FFFFF0"
+        },
+        {
+            "name": "Susquehannock",
+            "hexColor": "#7E183E"
+        },
+        {
+            "name": "Swabia",
+            "hexColor": "#E16257"
+        },
+        {
+            "name": "Swahili",
+            "hexColor": "#518D55"
+        },
+        {
+            "name": "Sweden",
+            "hexColor": "#0852A5"
+        },
+        {
+            "name": "Synthetics",
+            "hexColor": "#404040"
+        },
+        {
+            "name": "Syria",
+            "hexColor": "#7D6EE1"
+        },
+        {
+            "name": "Tabarestan",
+            "hexColor": "#D99058"
+        },
+        {
+            "name": "Tabriz",
+            "hexColor": "#D4509A"
+        },
+        {
+            "name": "Tafilalt",
+            "hexColor": "#8C2D64"
+        },
+        {
+            "name": "Tahontaenrat",
+            "hexColor": "#3B3976"
+        },
+        {
+            "name": "Tainui",
+            "hexColor": "#6E3232"
+        },
+        {
+            "name": "Tairona",
+            "hexColor": "#7224DE"
+        },
+        {
+            "name": "Takeda",
+            "hexColor": "#EA5506"
+        },
+        {
+            "name": "Takitimu",
+            "hexColor": "#91DA78"
+        },
+        {
+            "name": "Tang",
+            "hexColor": "#D07766"
+        },
+        {
+            "name": "Tanjore",
+            "hexColor": "#CB2052"
+        },
+        {
+            "name": "Tapuia",
+            "hexColor": "#C1B442"
+        },
+        {
+            "name": "Taranaki",
+            "hexColor": "#EBBE6E"
+        },
+        {
+            "name": "Tarascan",
+            "hexColor": "#9E1214"
+        },
+        {
+            "name": "Taungu",
+            "hexColor": "#E8D609"
+        },
+        {
+            "name": "Te Arawa",
+            "hexColor": "#C8D782"
+        },
+        {
+            "name": "Telingana",
+            "hexColor": "#9EA4E1"
+        },
+        {
+            "name": "Tenkodogo",
+            "hexColor": "#EA797B"
+        },
+        {
+            "name": "Teotitlan",
+            "hexColor": "#D5802E"
+        },
+        {
+            "name": "Ternate",
+            "hexColor": "#B0E840"
+        },
+        {
+            "name": "Te Tai Tokerau",
+            "hexColor": "#A20082"
+        },
+        {
+            "name": "Tetouan",
+            "hexColor": "#3F5201"
+        },
+        {
+            "name": "Teutonicorder",
+            "hexColor": "#666968"
+        },
+        {
+            "name": "Texas",
+            "hexColor": "#AD161B"
+        },
+        {
+            "name": "The Commonwealth",
+            "hexColor": "#B0516F"
+        },
+        {
+            "name": "The Isles",
+            "hexColor": "#006968"
+        },
+        {
+            "name": "Theodoro",
+            "hexColor": "#3D0851"
+        },
+        {
+            "name": "Three Leagues",
+            "hexColor": "#99F0B6"
+        },
+        {
+            "name": "Thuringia",
+            "hexColor": "#427E9D"
+        },
+        {
+            "name": "Tibet",
+            "hexColor": "#B1CFCD"
+        },
+        {
+            "name": "Tidore",
+            "hexColor": "#87BABA"
+        },
+        {
+            "name": "Timbuktu",
+            "hexColor": "#E6E73E"
+        },
+        {
+            "name": "Timurid",
+            "hexColor": "#D50027"
+        },
+        {
+            "name": "Tionontate",
+            "hexColor": "#5EB5D4"
+        },
+        {
+            "name": "Tirhut",
+            "hexColor": "#32A648"
+        },
+        {
+            "name": "Tirol",
+            "hexColor": "#AA2B15"
+        },
+        {
+            "name": "Tiwi",
+            "hexColor": "#378711"
+        },
+        {
+            "name": "Tlapanec",
+            "hexColor": "#3A7678"
+        },
+        {
+            "name": "Tlaxcala",
+            "hexColor": "#949515"
+        },
+        {
+            "name": "Tlemcen",
+            "hexColor": "#39A065"
+        },
+        {
+            "name": "Toki",
+            "hexColor": "#5654A2"
+        },
+        {
+            "name": "Tokugawa",
+            "hexColor": "#2F5D50"
+        },
+        {
+            "name": "Tonallan",
+            "hexColor": "#629579"
+        },
+        {
+            "name": "Tondo",
+            "hexColor": "#7B7A14"
+        },
+        {
+            "name": "Tonga",
+            "hexColor": "#E1C85F"
+        },
+        {
+            "name": "Tonkin",
+            "hexColor": "#51907E"
+        },
+        {
+            "name": "Tortuga",
+            "hexColor": "#435137"
+        },
+        {
+            "name": "Totonac",
+            "hexColor": "#303179"
+        },
+        {
+            "name": "Touggourt",
+            "hexColor": "#5A8CBE"
+        },
+        {
+            "name": "Toulouse",
+            "hexColor": "#7FAA92"
+        },
+        {
+            "name": "Transoxiana",
+            "hexColor": "#31B9BF"
+        },
+        {
+            "name": "Transylvania",
+            "hexColor": "#D3CFAD"
+        },
+        {
+            "name": "Trebizond",
+            "hexColor": "#28A49D"
+        },
+        {
+            "name": "Trent",
+            "hexColor": "#947A97"
+        },
+        {
+            "name": "Trier",
+            "hexColor": "#D0682C"
+        },
+        {
+            "name": "Tripoli",
+            "hexColor": "#19695A"
+        },
+        {
+            "name": "Tripura",
+            "hexColor": "#D35F49"
+        },
+        {
+            "name": "Tsutsui",
+            "hexColor": "#583822"
+        },
+        {
+            "name": "Tumbuka",
+            "hexColor": "#A1E0C9"
+        },
+        {
+            "name": "Tunisia",
+            "hexColor": "#928639"
+        },
+        {
+            "name": "Tupinamba",
+            "hexColor": "#9DD1C0"
+        },
+        {
+            "name": "Tupiniquim",
+            "hexColor": "#D46F54"
+        },
+        {
+            "name": "Tuscany",
+            "hexColor": "#546088"
+        },
+        {
+            "name": "Tuscarora",
+            "hexColor": "#3D7EFC"
+        },
+        {
+            "name": "Tver",
+            "hexColor": "#889EB7"
+        },
+        {
+            "name": "Two Sicilies",
+            "hexColor": "#9A999D"
+        },
+        {
+            "name": "Tyo",
+            "hexColor": "#63A08B"
+        },
+        {
+            "name": "Tyrconnell",
+            "hexColor": "#2BBEE3"
+        },
+        {
+            "name": "Tyrone",
+            "hexColor": "#836555"
+        },
+        {
+            "name": "Uesugi",
+            "hexColor": "#C8C8C8"
+        },
+        {
+            "name": "Ukraine",
+            "hexColor": "#7CB797"
+        },
+        {
+            "name": "Ulm",
+            "hexColor": "#CACACA"
+        },
+        {
+            "name": "Ulster",
+            "hexColor": "#EAD6A5"
+        },
+        {
+            "name": "UPCA",
+            "hexColor": "#CCBAC9"
+        },
+        {
+            "name": "Urbino",
+            "hexColor": "#3D98B4"
+        },
+        {
+            "name": "USA",
+            "hexColor": "#459DD0"
+        },
+        {
+            "name": "Utrecht",
+            "hexColor": "#DFC640"
+        },
+        {
+            "name": "Utsang",
+            "hexColor": "#2665FF"
+        },
+        {
+            "name": "Utsunomiya",
+            "hexColor": "#DEB761"
+        },
+        {
+            "name": "Valencia",
+            "hexColor": "#84618A"
+        },
+        {
+            "name": "Vanua Levu",
+            "hexColor": "#C35A87"
+        },
+        {
+            "name": "Venad",
+            "hexColor": "#86A675"
+        },
+        {
+            "name": "Venezuela",
+            "hexColor": "#D5526D"
+        },
+        {
+            "name": "Venice",
+            "hexColor": "#36A79C"
+        },
+        {
+            "name": "Verden",
+            "hexColor": "#E3D322"
+        },
+        {
+            "name": "Vermont",
+            "hexColor": "#32780A"
+        },
+        {
+            "name": "Verona",
+            "hexColor": "#79A372"
+        },
+        {
+            "name": "Vientiane",
+            "hexColor": "#97AE1C"
+        },
+        {
+            "name": "Vijaynagara",
+            "hexColor": "#F6C418"
+        },
+        {
+            "name": "Viti Levu",
+            "hexColor": "#F0A064"
+        },
+        {
+            "name": "Viti",
+            "hexColor": "#82B4D7"
+        },
+        {
+            "name": "VOC",
+            "hexColor": "#CD7D2E"
+        },
+        {
+            "name": "Volyn",
+            "hexColor": "#CD2626"
+        },
+        {
+            "name": "Wadai",
+            "hexColor": "#A6A18B"
+        },
+        {
+            "name": "Wagadugu",
+            "hexColor": "#28983C"
+        },
+        {
+            "name": "Waitaha",
+            "hexColor": "#C8C8C8"
+        },
+        {
+            "name": "Wales",
+            "hexColor": "#757FAE"
+        },
+        {
+            "name": "Wallachia",
+            "hexColor": "#A17E80"
+        },
+        {
+            "name": "Wampanoag",
+            "hexColor": "#5F05D2"
+        },
+        {
+            "name": "Wanka",
+            "hexColor": "#E0D69D"
+        },
+        {
+            "name": "Warsangali",
+            "hexColor": "#126180"
+        },
+        {
+            "name": "Welayta",
+            "hexColor": "#CAC8AF"
+        },
+        {
+            "name": "Wenro",
+            "hexColor": "#DC827F"
+        },
+        {
+            "name": "Westfalia",
+            "hexColor": "#E7E68A"
+        },
+        {
+            "name": "West Indies",
+            "hexColor": "#56C350"
+        },
+        {
+            "name": "Wichita",
+            "hexColor": "#790AD7"
+        },
+        {
+            "name": "Wichiyena",
+            "hexColor": "#5B488D"
+        },
+        {
+            "name": "Wolgast",
+            "hexColor": "#EBB212"
+        },
+        {
+            "name": "Wu",
+            "hexColor": "#7E57C6"
+        },
+        {
+            "name": "Wurttemberg",
+            "hexColor": "#6FA280"
+        },
+        {
+            "name": "Wurundjeri",
+            "hexColor": "#658A2A"
+        },
+        {
+            "name": "Wurzburg",
+            "hexColor": "#93926A"
+        },
+        {
+            "name": "Xalisco",
+            "hexColor": "#6231DD"
+        },
+        {
+            "name": "Xi",
+            "hexColor": "#8CB79A"
+        },
+        {
+            "name": "Xiu",
+            "hexColor": "#5EEC5B"
+        },
+        {
+            "name": "Yaka",
+            "hexColor": "#63A0EF"
+        },
+        {
+            "name": "Yamana",
+            "hexColor": "#8C4880"
+        },
+        {
+            "name": "Yan",
+            "hexColor": "#DB2C15"
+        },
+        {
+            "name": "Yanuwa",
+            "hexColor": "#E6913E"
+        },
+        {
+            "name": "Yao",
+            "hexColor": "#821F48"
+        },
+        {
+            "name": "Yaqui",
+            "hexColor": "#7F2031"
+        },
+        {
+            "name": "Yarkand",
+            "hexColor": "#FFF5DC"
+        },
+        {
+            "name": "Yaroslavl",
+            "hexColor": "#838D8E"
+        },
+        {
+            "name": "Yas",
+            "hexColor": "#EF7D7D"
+        },
+        {
+            "name": "Yatenga",
+            "hexColor": "#4DE719"
+        },
+        {
+            "name": "Yazd",
+            "hexColor": "#EFA413"
+        },
+        {
+            "name": "Yemen",
+            "hexColor": "#6A262C"
+        },
+        {
+            "name": "Yeren",
+            "hexColor": "#109C1B"
+        },
+        {
+            "name": "Yi",
+            "hexColor": "#CD6812"
+        },
+        {
+            "name": "Yokotan",
+            "hexColor": "#406ABF"
+        },
+        {
+            "name": "Yokuts",
+            "hexColor": "#ACE895"
+        },
+        {
+            "name": "Yolngu",
+            "hexColor": "#7855A0"
+        },
+        {
+            "name": "Yue",
+            "hexColor": "#5971DF"
+        },
+        {
+            "name": "Zafunu",
+            "hexColor": "#9B587F"
+        },
+        {
+            "name": "Zandoma",
+            "hexColor": "#B897BF"
+        },
+        {
+            "name": "Zaporozhie",
+            "hexColor": "#757083"
+        },
+        {
+            "name": "Zapotec",
+            "hexColor": "#9E7678"
+        },
+        {
+            "name": "Zazzau",
+            "hexColor": "#8A163B"
+        },
+        {
+            "name": "Zealandia",
+            "hexColor": "#9882BF"
+        },
+        {
+            "name": "Zhou",
+            "hexColor": "#D1D47E"
+        },
+        {
+            "name": "Zulu",
+            "hexColor": "#B10C0C"
+        },
+        {
+            "name": "Zunghar",
+            "hexColor": "#81613E"
+        },
+        {
+            "name": "Zuni",
+            "hexColor": "#3E806C"
+        }
+    ]
+}

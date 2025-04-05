@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Color Palette Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            transition: background-color 0.3s ease;
+            overflow: hidden;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #f8f9fa;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            z-index: 1;
+        }
+        
+        h1 {
+            margin: 0;
+            color: #333;
+        }
+        
+        .subtitle {
+            margin-top: 5px;
+            color: #666;
+        }
+        
+        .palette-container {
+            display: flex;
+            flex-grow: 1;
+            width: 100%;
+        }
+        
+        .color-box {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            align-items: center;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        
+        .color-box:hover {
+            flex: 1.2;
+        }
+        
+        .color-name {
+            background-color: rgba(255, 255, 255, 0.8);
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            font-weight: 500;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            max-width: 90%;
+            text-align: center;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        
+        .hex-code {
+            font-size: 0.8em;
+            opacity: 0.8;
+        }
+        
+        .instruction {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 20px;
+            border-radius: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            z-index: 2;
+            transition: opacity 0.3s ease;
+        }
+        
+        .loading {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.9);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            font-size: 1.5em;
+        }
+        
+        .error {
+            color: red;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="loading" class="loading">Loading country data...</div>
+    
+    <div class="container">
+        <div class="header">
+            <h1>Country Color Palette Generator</h1>
+            <div class="subtitle">Discover color schemes inspired by countries around the world</div>
+        </div>
+        
+        <div id="palette-container" class="palette-container">
+            <!-- Color boxes will be added here -->
+        </div>
+    </div>
+    
+    <div class="instruction">Press SPACEBAR to generate a new palette</div>
+    
+    <script>
+        // Global variables
+        let countriesData = [];
+        const paletteContainer = document.getElementById('palette-container');
+        const loadingElement = document.getElementById('loading');
+        
+        // Function to load the JSON data
+        async function loadCountriesData() {
+            try {
+                const response = await fetch('countries.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load countries data');
+                }
+                
+                const data = await response.json();
+                
+                if (data && data.countries && Array.isArray(data.countries)) {
+                    countriesData = data.countries;
+                    loadingElement.style.display = 'none';
+                    generatePalette();
+                } else {
+                    throw new Error('Invalid JSON format');
+                }
+            } catch (error) {
+                console.error('Error loading data:', error);
+                loadingElement.innerHTML = `<div class="error">
+                    <p>Error loading data: ${error.message}</p>
+                    <p>Make sure the "countries.json" file is in the same directory as this HTML file.</p>
+                </div>`;
+            }
+        }
+        
+        // Function to get multiple random countries
+        function getRandomCountries(count) {
+            const shuffled = [...countriesData].sort(() => 0.5 - Math.random());
+            return shuffled.slice(0, count);
+        }
+        
+        // Function to generate the palette
+        function generatePalette() {
+            // Clear existing palette
+            paletteContainer.innerHTML = '';
+            
+            // Get 5 random countries
+            const selectedCountries = getRandomCountries(5);
+            
+            // Create color boxes
+            selectedCountries.forEach(country => {
+                const colorBox = document.createElement('div');
+                colorBox.className = 'color-box';
+                colorBox.style.backgroundColor = country.hexColor;
+                
+                const colorName = document.createElement('div');
+                colorName.className = 'color-name';
+                colorName.innerHTML = `${country.name}<br><span class="hex-code">${country.hexColor}</span>`;
+                
+                colorBox.appendChild(colorName);
+                paletteContainer.appendChild(colorBox);
+            });
+        }
+        
+        // Event listener for spacebar
+        document.addEventListener('keydown', function(event) {
+            if (event.code === 'Space') {
+                event.preventDefault();
+                generatePalette();
+            }
+        });
+        
+        // Load data when page is loaded
+        window.addEventListener('DOMContentLoaded', loadCountriesData);
+    </script>
+</body>
+</html>
