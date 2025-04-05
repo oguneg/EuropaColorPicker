@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Country Color Palette Generator</title>
+    <title>Europa Color Palette Generator</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -52,6 +52,7 @@
             align-items: center;
             transition: all 0.3s ease;
             position: relative;
+            padding-bottom: 70px; /* Space for the button at bottom */
         }
         
         .color-box:hover {
@@ -63,7 +64,7 @@
             color: #333;
             padding: 10px 15px;
             border-radius: 5px;
-            margin-bottom: 20px;
+            margin-bottom: 40px; /* Moved up by increasing margin */
             font-weight: 500;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             max-width: 90%;
@@ -78,17 +79,31 @@
             opacity: 0.8;
         }
         
-        .instruction {
+        .generate-button {
             position: fixed;
             bottom: 20px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: rgba(255, 255, 255, 0.8);
-            padding: 10px 20px;
-            border-radius: 20px;
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 25px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
             z-index: 2;
-            transition: opacity 0.3s ease;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: none;
+            font-size: 16px;
+            font-weight: 500;
+        }
+        
+        .generate-button:hover {
+            background-color: #45a049;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        
+        .generate-button:active {
+            transform: translateX(-50%) scale(0.98);
         }
         
         .loading {
@@ -126,15 +141,16 @@
         </div>
     </div>
     
-    <div class="instruction">Press SPACEBAR to generate a new palette</div>
+    <button id="generate-button" class="generate-button">Click here or hit SPACEBAR to generate new colors</button>
     
     <script>
         // Global variables
         let countriesData = [];
         const paletteContainer = document.getElementById('palette-container');
         const loadingElement = document.getElementById('loading');
+        const generateButton = document.getElementById('generate-button');
         
-        // Function to load the JSON data
+        // Function to load the JSON data - ORIGINAL VERSION
         async function loadCountriesData() {
             try {
                 const response = await fetch('countries.json');
@@ -195,6 +211,11 @@
                 event.preventDefault();
                 generatePalette();
             }
+        });
+        
+        // Event listener for button click
+        generateButton.addEventListener('click', function() {
+            generatePalette();
         });
         
         // Load data when page is loaded
