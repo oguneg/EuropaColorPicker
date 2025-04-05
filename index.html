@@ -52,7 +52,6 @@
             align-items: center;
             transition: all 0.3s ease;
             position: relative;
-            padding-bottom: 70px; /* Space for the button at bottom */
         }
         
         .color-box:hover {
@@ -64,7 +63,7 @@
             color: #333;
             padding: 10px 15px;
             border-radius: 5px;
-            margin-bottom: 40px; /* Moved up by increasing margin */
+            margin-bottom: 20px;
             font-weight: 500;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             max-width: 90%;
@@ -79,31 +78,17 @@
             opacity: 0.8;
         }
         
-        .generate-button {
+        .instruction {
             position: fixed;
             bottom: 20px;
             left: 50%;
             transform: translateX(-50%);
-            background-color: #4CAF50;
-            color: white;
-            padding: 12px 24px;
-            border-radius: 25px;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px 20px;
+            border-radius: 20px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
             z-index: 2;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: none;
-            font-size: 16px;
-            font-weight: 500;
-        }
-        
-        .generate-button:hover {
-            background-color: #45a049;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        }
-        
-        .generate-button:active {
-            transform: translateX(-50%) scale(0.98);
+            transition: opacity 0.3s ease;
         }
         
         .loading {
@@ -133,7 +118,7 @@
     <div class="container">
         <div class="header">
             <h1>Country Color Palette Generator</h1>
-            <div class="subtitle">Discover color schemes inspired by countries around the world</div>
+            <div class="subtitle">Get color schemes inspired by our favorite map painting game</div>
         </div>
         
         <div id="palette-container" class="palette-container">
@@ -141,51 +126,17 @@
         </div>
     </div>
     
-    <button id="generate-button" class="generate-button">Click here or hit SPACEBAR to generate new colors</button>
+    <div class="instruction">Press SPACEBAR to generate a new palette</div>
     
     <script>
         // Global variables
         let countriesData = [];
         const paletteContainer = document.getElementById('palette-container');
         const loadingElement = document.getElementById('loading');
-        const generateButton = document.getElementById('generate-button');
-        
-        // Example data to use directly (avoiding fetch issues)
-        const sampleData = {
-            "countries": [
-                {"name": "Ottoman Empire", "hexColor": "#31735A"},
-                {"name": "France", "hexColor": "#0055A4"},
-                {"name": "Great Britain", "hexColor": "#00247D"},
-                {"name": "Spain", "hexColor": "#AA151B"},
-                {"name": "Russia", "hexColor": "#0039A6"},
-                {"name": "China", "hexColor": "#DE2910"},
-                {"name": "Japan", "hexColor": "#BC002D"},
-                {"name": "Italy", "hexColor": "#008C45"},
-                {"name": "Egypt", "hexColor": "#C09300"},
-                {"name": "Germany", "hexColor": "#000000"},
-                {"name": "Portugal", "hexColor": "#006600"},
-                {"name": "Netherlands", "hexColor": "#AE1C28"},
-                {"name": "Sweden", "hexColor": "#006AA7"},
-                {"name": "Poland", "hexColor": "#DC143C"},
-                {"name": "Austria", "hexColor": "#EF3340"}
-            ]
-        };
         
         // Function to load the JSON data
         async function loadCountriesData() {
             try {
-                // For this version, we'll use the sample data directly
-                // to avoid file loading issues
-                if (sampleData && sampleData.countries && Array.isArray(sampleData.countries)) {
-                    countriesData = sampleData.countries;
-                    loadingElement.style.display = 'none';
-                    generatePalette();
-                } else {
-                    throw new Error('Invalid JSON format');
-                }
-                
-                // You can uncomment this section if you want to try loading from file again
-                /*
                 const response = await fetch('countries.json');
                 if (!response.ok) {
                     throw new Error('Failed to load countries data');
@@ -200,13 +151,12 @@
                 } else {
                     throw new Error('Invalid JSON format');
                 }
-                */
             } catch (error) {
                 console.error('Error loading data:', error);
-                // Just use sample data instead of showing error
-                countriesData = sampleData.countries;
-                loadingElement.style.display = 'none';
-                generatePalette();
+                loadingElement.innerHTML = `<div class="error">
+                    <p>Error loading data: ${error.message}</p>
+                    <p>Make sure the "countries.json" file is in the same directory as this HTML file.</p>
+                </div>`;
             }
         }
         
@@ -245,11 +195,6 @@
                 event.preventDefault();
                 generatePalette();
             }
-        });
-        
-        // Event listener for button click
-        generateButton.addEventListener('click', function() {
-            generatePalette();
         });
         
         // Load data when page is loaded
