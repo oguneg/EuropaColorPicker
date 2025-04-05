@@ -22,7 +22,7 @@
         
         .header {
             text-align: center;
-            padding: 20px;
+            padding: 15px 10px;
             background-color: #f8f9fa;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             z-index: 1;
@@ -31,11 +31,13 @@
         h1 {
             margin: 0;
             color: #333;
+            font-size: 1.5rem;
         }
         
         .subtitle {
             margin-top: 5px;
             color: #666;
+            font-size: 0.9rem;
         }
         
         .palette-container {
@@ -50,21 +52,17 @@
             flex-direction: column;
             justify-content: flex-end;
             align-items: center;
-            transition: all 0.3s ease;
+            transition: background-color 0.3s ease;
             position: relative;
             padding-bottom: 70px; /* Space for the button at bottom */
-        }
-        
-        .color-box:hover {
-            flex: 1.2;
         }
         
         .color-name {
             background-color: rgba(255, 255, 255, 0.8);
             color: #333;
-            padding: 10px 15px;
+            padding: 8px;
             border-radius: 5px;
-            margin-bottom: 40px; /* Moved up by increasing margin */
+            margin-bottom: 20px;
             font-weight: 500;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             max-width: 90%;
@@ -72,34 +70,37 @@
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
+            font-size: 0.8rem;
         }
         
         .hex-code {
-            font-size: 0.8em;
+            font-size: 0.7em;
             opacity: 0.8;
         }
         
         .generate-button {
             position: fixed;
-            bottom: 20px;
+            bottom: 15px;
             left: 50%;
             transform: translateX(-50%);
             background-color: #4CAF50;
             color: white;
-            padding: 12px 24px;
+            padding: 10px 20px;
             border-radius: 25px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
             z-index: 2;
             cursor: pointer;
             transition: all 0.2s ease;
             border: none;
-            font-size: 16px;
+            font-size: 14px;
             font-weight: 500;
+            width: 80%;
+            max-width: 300px;
+            text-align: center;
         }
         
         .generate-button:hover {
             background-color: #45a049;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         
         .generate-button:active {
@@ -117,13 +118,45 @@
             justify-content: center;
             align-items: center;
             z-index: 1000;
-            font-size: 1.5em;
+            font-size: 1.2em;
         }
         
         .error {
             color: red;
             text-align: center;
             padding: 20px;
+            font-size: 0.9rem;
+        }
+        
+        /* Media queries for mobile responsiveness */
+        @media (max-width: 768px) {
+            .color-box:hover {
+                flex: 1; /* Disable expansion on mobile */
+            }
+            
+            .color-name {
+                font-size: 0.7rem;
+                padding: 5px;
+                margin-bottom: 15px;
+            }
+            
+            .hex-code {
+                font-size: 0.6em;
+            }
+            
+            h1 {
+                font-size: 1.3rem;
+            }
+            
+            .subtitle {
+                font-size: 0.8rem;
+            }
+            
+            .generate-button {
+                font-size: 12px;
+                padding: 8px 16px;
+                width: 90%;
+            }
         }
     </style>
 </head>
@@ -150,7 +183,7 @@
         const loadingElement = document.getElementById('loading');
         const generateButton = document.getElementById('generate-button');
         
-        // Function to load the JSON data - ORIGINAL VERSION
+        // Function to load the JSON data
         async function loadCountriesData() {
             try {
                 const response = await fetch('countries.json');
